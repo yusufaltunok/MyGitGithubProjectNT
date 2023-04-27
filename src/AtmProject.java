@@ -21,7 +21,8 @@ public class AtmProject {
         System.out.println();
         //ysf3
         System.out.println();
-        // localde değişiklik yaptım
+        // localde değişiklik yaptım.
+        //Remoteda değişiklik yaptım.
 
 
 
